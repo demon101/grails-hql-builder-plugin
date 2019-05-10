@@ -1,0 +1,1 @@
+# grails-hql-builder-plugin
